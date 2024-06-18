@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mensagem de Aniversário</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f8f8f8;
+            font-family: Arial, sans-serif;
+        }
+        .message {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        .message h1 {
+            font-size: 24px;
+            color: #333;
+        }
+        .message p {
+            font-size: 18px;
+            color: #666;
+        }
+        .message .hearts {
+            font-size: 24px;
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="message">
+        <h1>bom dia meu bem 🥰❤️</h1>
+        <p>feliz aniversário, que Deus continue te abençoando grandemente, que hoje seja um dia muito maravilhoso e especial pra você!</p>
+        <p>definitivamente agradeço todos os dias pela mulher que vc é e por eu ter tido a oportunidade de partilhar momentos e ter comecinho de uma vida juntos, sou muito grato e palavras não seriam suficientes pra descrever a felicidade que é conviver ao seu lado.</p>
+        <p class="hearts">❤️❤️❤️</p>
+    </div>
+</body>
+</html>
